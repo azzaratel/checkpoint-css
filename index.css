@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+body{
+    background-color: aqua;
+    
+font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    margin-top: 20px;
+    text-align: center;
+    color: darkmagenta;
+    font-style: italic;
+}
+h2{
+    text-align: center;
+    color: rgb(34, 184, 59);
+    font-style: italic;
+}
+.para{
+    background-color: aliceblue;
+    text-align: center;
+}
+#one{
+    background-color: red;
+    text-decoration: underline;
+    
+}
+.bodyy{
+    background-image:url(https://media.sudouest.fr/14507828/1000x500/adobestock-497603269.jpg?v=1679407540);
+}
+p{
+text-align: justify;
+    font-size: medium;
+}
+.diiv{
+    text-decoration: underline;
+    
+}
+div{
+    text-align: center;
+}
+nav a{
+    text-decoration: none;
+    color: crimson;
+
+
+}
+nav{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    
+
+}
+
+
+nav a:hover{
+    color: blue;
+    font-size: 28px;
+}
+
+
+
+
+
+
+
+
